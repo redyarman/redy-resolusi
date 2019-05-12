@@ -1,6 +1,6 @@
 1. Buat Vlog
 2. Buat Blog
-
+3. Membuat materi tentang database
 Untuk vlog, meliputi:
 1. Wildfly 
 2. Camel
