@@ -2,6 +2,8 @@
 2. Buat Blog
 3. Membuat materi tentang database
 4. membuat materi tentang web meliputi vue.js, java spring
+5. Membuat materi dasar tentang struktur data
+
 Untuk vlog, meliputi:
 1. Wildfly 
 2. Camel
